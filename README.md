@@ -8,6 +8,11 @@ Simple application that prevents your computer from going to sleep. Inspired by 
 </div>
 
 
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/g8qvLuE.png)
+
+
 ## Contributing
 
 Checkout a new branch and open a pull request.
@@ -16,5 +21,3 @@ Checkout a new branch and open a pull request.
 ## License
 
 MIT
-
-  
